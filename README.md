@@ -1,14 +1,13 @@
 ### <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="5%">
 
-- 👋 Hi, I’m @urosim
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👋 Hi, I’m Uros
+- 👀 I’m interested in Meteor+React Project
+- 🌱 I’m currently learning PHP/Laravel
+- 💞️ Ping me about React, Meteor, D3.js
+- ⚡ Fun fact: I ❤️ thinking
 
 
-
-<h2>🚀 Some Tools I Use</h2>
+<h2>🚀 Languages & Tools</h2>
 <p align="left">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="25" height="25" />
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular-js" width="25" height="25" />
