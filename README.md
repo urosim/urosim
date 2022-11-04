@@ -30,6 +30,10 @@
 <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="25" height="25" />
 </p>
 
+<hr/>
+<img width="1134" alt="vswin-carousel@2x" src="https://user-images.githubusercontent.com/111153494/199887979-4b0f089d-9e92-4d72-901e-496cd875cd9b.png">
+
+
 <!---
 urosim/urosim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
